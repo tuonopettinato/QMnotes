@@ -7,4 +7,3 @@ Authors:
         Marco Pompili
 We all wish to thank Professor Ettore Vicari and Professor Vincenzo Alba for their dedication.
 Obviously, the notes contain typos and errors, so we'll gratefully accept reccomendations. We'll also try to expand this work and to share the .tex files as soon as we can.
-        
