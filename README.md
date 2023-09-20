@@ -1,6 +1,8 @@
 # QMnotes
 
-Lo and behold, some lecture notes on Quantum Mechanics. I am not the only author: this music has been played with eight hands!
+Lo and behold, some lecture notes on Quantum Mechanics.These notes are written in italian. 
+
+I am not the only author: this music has been played with eight hands!
 
 Authors:
 - Valerio Caporioni
