@@ -1,6 +1,8 @@
 # QMnotes
 
-Lo and behold, some lecture notes on Quantum Mechanics.These notes are written in italian. 
+Lo and behold, some lecture notes on Quantum Mechanics!
+
+These notes are introductory, and they've been written in italian. 
 
 I am not the only author: this music has been played with eight hands!
 
